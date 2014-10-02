@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+@include animation(${1});
+]]></content>
+	<tabTrigger>bo_animation</tabTrigger>
+	<scope>source.scss</scope>
+	<description></description>
+</snippet>

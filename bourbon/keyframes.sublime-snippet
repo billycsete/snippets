@@ -1,0 +1,15 @@
+<snippet>
+	<content><![CDATA[
+@include keyframes(${1:name}) {
+	from {
+		${2}
+	}
+	to {
+		${3}
+	}
+}
+]]></content>
+	<tabTrigger>bo_keyframes</tabTrigger>
+	<scope>source.scss</scope>
+	<description></description>
+</snippet>

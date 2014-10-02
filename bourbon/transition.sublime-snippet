@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+@include transition(${1});
+]]></content>
+	<tabTrigger>bo_transition</tabTrigger>
+	<scope>source.scss</scope>
+	<description></description>
+</snippet>
