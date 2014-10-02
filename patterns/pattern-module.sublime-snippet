@@ -1,0 +1,38 @@
+<snippet>
+	<content><![CDATA[
+(function ( global ) {
+	'use strict';
+
+	var ${1:ModuleMame} = (function() {
+
+		var privateData = 'private';
+
+		function privateFunc() {
+			// nothing can call this except itself
+			console.log( 'this is private!' );
+		}
+
+		return {
+
+			initialize : function( arg ) {
+				this.arg = arg;
+				privateFunc();
+			},
+
+			doSomethingCool : function() {
+
+			}
+
+		}
+
+	})();
+
+	global.${1:ModuleMame} = ${1:ModuleMame};
+
+})( window );
+]]></content>
+	<tabTrigger>pat-module</tabTrigger>
+	<scope>source.js</scope>
+	<description>Modular Pattern</description>
+</snippet>
+

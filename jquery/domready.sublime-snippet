@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+\$(document).ready(function(){
+	${1}
+});
+]]></content>
+	<tabTrigger>jq_domready</tabTrigger>
+	<scope>source.js</scope>
+	<description>DOM Ready</description>
+</snippet>

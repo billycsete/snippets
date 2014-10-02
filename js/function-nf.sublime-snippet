@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+var ${1:name} = function ${1:name}(${2:arguments}) {
+	${3}
+}
+]]></content>
+	<tabTrigger>func-nf</tabTrigger>
+	<scope>source.js</scope>
+	<description>Named Function</description>
+</snippet>

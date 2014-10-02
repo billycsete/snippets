@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<link rel="stylesheet" href="${1:path.css}" type="text/css" />
+]]></content>
+	<tabTrigger>stylesrc</tabTrigger>
+	<scope>text.html</scope>
+	<description>HTML - Stylesheet Link</description>
+</snippet>

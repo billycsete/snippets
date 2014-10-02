@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+var ${1:name} = {
+	${0}
+}${4:,}
+]]></content>
+	<tabTrigger>obj</tabTrigger>
+	<scope>source.js</scope>
+	<description>Object</description>
+</snippet>

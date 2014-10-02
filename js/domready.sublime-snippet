@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+document.addEventListener('DOMContentLoaded', function(){
+	${1}
+});
+]]></content>
+	<tabTrigger>domready</tabTrigger>
+	<scope>source.js</scope>
+	<description>DOM Ready</description>
+</snippet>
