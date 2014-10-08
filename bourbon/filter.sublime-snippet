@@ -1,8 +1,8 @@
 <snippet>
 	<content><![CDATA[
-@include clearfix;
+@include filter(${1});
 ]]></content>
-	<tabTrigger>bo_clearfix</tabTrigger>
+	<tabTrigger>bo_filter</tabTrigger>
 	<scope>source.scss</scope>
 	<description></description>
 </snippet>
