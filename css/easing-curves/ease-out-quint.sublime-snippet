@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+cubic-bezier(0.230, 1.000, 0.320, 1.000)
+]]></content>
+	<tabTrigger>ease_out_quint</tabTrigger>
+	<scope>source.css, source.scss, source.sass</scope>
+	<description> </description>
+</snippet>

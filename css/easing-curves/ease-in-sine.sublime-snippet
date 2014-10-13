@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+cubic-bezier(0.470, 0.000, 0.745, 0.715)
+]]></content>
+	<tabTrigger>ease_in_sine</tabTrigger>
+	<scope>source.css, source.scss, source.sass</scope>
+	<description> </description>
+</snippet>
