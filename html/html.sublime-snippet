@@ -1,0 +1,20 @@
+<snippet>
+	<content><![CDATA[
+<!DOCTYPE HTML>
+<html>
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<title>${1:Title}</title>
+</head>
+
+<body>
+
+	$0
+
+</body>
+</html>
+]]></content>
+	<tabTrigger>html</tabTrigger>
+	<scope>text.html</scope>
+	<description></description>
+</snippet>
