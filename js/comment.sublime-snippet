@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+/**
+ * {$1:Comment}
+ */
+]]></content>
+	<tabTrigger>com</tabTrigger>
+	<scope>source.js</scope>
+	<description>JS - Comment</description>
+</snippet>
