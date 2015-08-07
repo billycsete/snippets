@@ -1,8 +1,0 @@
-<snippet>
-	<content><![CDATA[
-@include filter(${1});
-]]></content>
-	<tabTrigger>bo_filter</tabTrigger>
-	<scope>source.scss</scope>
-	<description></description>
-</snippet>

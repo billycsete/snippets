@@ -1,8 +1,0 @@
-<snippet>
-	<content><![CDATA[
-@include clearfix;
-]]></content>
-	<tabTrigger>bo_clearfix</tabTrigger>
-	<scope>source.scss</scope>
-	<description></description>
-</snippet>
