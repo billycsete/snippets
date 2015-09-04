@@ -1,4 +1,4 @@
-snippets
+Sublime Text 3 Snippets
 ========
 
 Navigate to Sublime Text packages directory.
@@ -6,13 +6,14 @@ Navigate to Sublime Text packages directory.
 cd ~/Library/Application\ Support/Sublime\ Text\ 3/Packages/User/
 ```
 
-# For me
-I like to creat a symlink to a copy of the repo in my Dropbox
-```shell
-ln -s /Users/billy/Dropbox/Public/snippets snippets
-```
-
-#For not me
 Clone snippets repo.
 
 EZ
+
+
+## For me
+I like to create a symlink to a copy of the repo in my Dropbox so the repo only needs to be updated in one place for all the computers.
+
+```shell
+ln -s /Users/billy/Dropbox/Public/snippets snippets
+```
