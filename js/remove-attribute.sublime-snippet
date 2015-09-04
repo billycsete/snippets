@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-${1:elem}.removeAttribute( '${2:attr}' );
+${1:elem}.removeAttribute('${2:attr}');
 ]]></content>
 	<tabTrigger>ra</tabTrigger>
 	<scope>source.js</scope>

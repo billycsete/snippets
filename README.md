@@ -11,9 +11,16 @@ Clone snippets repo.
 EZ
 
 
-## For me
+### For me
 I like to create a symlink to a copy of the repo in my Dropbox so the repo only needs to be updated in one place for all the computers.
 
 ```shell
 ln -s /Users/billy/Dropbox/Public/snippets snippets
 ```
+
+
+## HTML
+
+## JS
+
+## CSS

@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-${1:document}.removeEventListener( '${2:event}', ${3:handler} );
+${1:document}.removeEventListener('${2:event}', ${3:handler});
 ]]></content>
 	<tabTrigger>re</tabTrigger>
 	<scope>source.js</scope>

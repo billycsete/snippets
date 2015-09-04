@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-${1:elem}.getAttribute( '${2:attr}' );
+${1:elem}.getAttribute('${2:attr}');
 ]]></content>
 	<tabTrigger>ga</tabTrigger>
 	<scope>source.js</scope>

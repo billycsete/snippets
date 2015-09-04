@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-( ${1:expression} ) ? {$:true} : {$:false};
+(${1:expression}) ? {$:true} : {$:false};
 ]]></content>
 	<tabTrigger>ifs</tabTrigger>
 	<scope>source.js</scope>

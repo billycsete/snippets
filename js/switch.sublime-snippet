@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-switch ( ${1:expression} ) {
+switch (${1:expression}) {
 
 	case ${2:value}:
 		${3}
