@@ -1,8 +1,8 @@
 <snippet>
 	<content><![CDATA[
-if (${1:true}) {
-	${2:// do something}
-};${0}
+if ( ${1:expression} ) {
+	${2}
+}
 ]]></content>
 	<tabTrigger>if</tabTrigger>
 	<scope>source.js</scope>

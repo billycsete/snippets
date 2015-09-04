@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-${1:name} : function(${3:attribute}){
+${1:name} : function( ${3:attribute} ){
 	$0
 }${10:,}
 ]]></content>

@@ -1,0 +1,27 @@
+<snippet>
+	<content><![CDATA[
+'use strict';
+
+/**
+ * ${1:ConstructorName}
+ * @constructor
+ */
+var ${1:ConstructorName} = function( ) {
+	${3}
+};
+
+${1:ConstructorName}.prototype.initialize = function( ) {
+
+};
+
+${1:ConstructorName}.prototype._thisIsPrivate = function( ) {
+
+};
+
+${2:global}.${1:ConstructorName} = ${1:ConstructorName};
+
+]]></content>
+	<tabTrigger>pat-constructor</tabTrigger>
+	<scope>source.js</scope>
+	<description>Constructor Pattern</description>
+</snippet>

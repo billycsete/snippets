@@ -1,8 +1,9 @@
 <snippet>
 	<content><![CDATA[
 /**
- * ${1:Whuz dis?}
+ * ${1:Comments are radical}
  */
+${2:}
 ]]></content>
 	<tabTrigger>com</tabTrigger>
 	<scope>source.js</scope>
