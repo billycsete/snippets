@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[
+// ====================================
+// ${1: Block comment}
+// ====================================
+
+${2}
+]]></content>
+	<tabTrigger>com</tabTrigger>
+	<scope>source.scss, source.sass</scope>
+</snippet>
