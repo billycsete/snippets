@@ -4,7 +4,7 @@ function(${1:arguments}) {
 	${2}
 }
 ]]></content>
-	<tabTrigger>afn</tabTrigger>
+	<tabTrigger>fua</tabTrigger>
 	<scope>source.js</scope>
 	<description>anonymous function</description>
 </snippet>

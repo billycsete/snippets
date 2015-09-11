@@ -4,7 +4,7 @@ function ${1:name}(${2:arguments}) {
 	${3}
 }
 ]]></content>
-	<tabTrigger>fn</tabTrigger>
+	<tabTrigger>fu</tabTrigger>
 	<scope>source.js</scope>
 	<description>function</description>
 </snippet>
