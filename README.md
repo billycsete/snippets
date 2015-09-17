@@ -17,10 +17,3 @@ I like to create a symlink to a copy of the repo in my Dropbox so the repo only 
 ```shell
 ln -s /Users/billy/Dropbox/Public/snippets snippets
 ```
-
-
-## HTML
-
-## JS
-
-## CSS
